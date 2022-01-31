@@ -10,7 +10,7 @@ export default {
     description: "Explore the web with anyone in real-time.",
     images: [
       {
-        url: "/assets/banner.jpg",
+        url: "/static/banner.jpg",
         width: 1200,
         height: 624,
         alt: "",

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/twistyapp/web">
-    <img src="https://twistyapp.org/assets/banner.jpeg"">
+    <img src="https://twistyapp.org/static/banner.jpeg"">
 
   </a>
 
@@ -86,7 +86,7 @@ Distributed under the AGPLv3 License. See [`LICENSE`](https://github.com/twistya
 
 Special thanks to these amazing projects which help power Twisty:
 
-[<img src="https://twistyapp.org/assets/powered-by-vercel.svg">](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
+[<img src="https://twistyapp.org/static/powered-by-vercel.svg">](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
 
 - [Vercel](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
 - [Next.js](https://nextjs.org/)
