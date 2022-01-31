@@ -1,5 +1,6 @@
 {
   "name": "@twisty/web",
+  "license": "AGPL-3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
