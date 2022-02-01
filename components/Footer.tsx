@@ -116,7 +116,9 @@ export const Footer = () => {
             </div>
           </div>
           <div className="mt-12 xl:mt-0">
-            <img src="/static/powered-by-vercel.svg" />
+            <a href="https://vercel.com/?utm_source=twisty&utm_campaign=oss">
+              <img src="/static/powered-by-vercel.svg" />
+            </a>
           </div>
         </div>
         <div className="mt-12 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between lg:mt-16">
