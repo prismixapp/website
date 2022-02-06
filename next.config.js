@@ -6,12 +6,12 @@ module.exports = {
     return [
       {
         source: "/app",
-        destination: "https://orbit.twistyapp.org",
+        destination: "https://orbit.prismix.app",
         permanent: true,
       },
       {
         source: "/status",
-        destination: "https://status.twistyapp.org",
+        destination: "https://status.prismix.app",
         permanent: true,
       },
     ];

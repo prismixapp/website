@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/twistyapp/web">
-    <img src="https://twistyapp.org/static/banner.jpeg"">
+  <a href="https://github.com/prismixapp/web">
+    <img src="https://prismix.app/static/banner.jpeg"">
 
   </a>
 
-  <h3 align="center">@twisty/web</h3>
+  <h3 align="center">@prismix/web</h3>
 
   <p align="center">
     Explore the web with anyone in real-time.
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/twistyapp/web/stargazers"><img src="https://img.shields.io/github/stars/twistyapp/web" alt="Github Stars"></a>
-  <a href="https://github.com/twistyapp/web/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-purple" alt="License"></a>
-  <img src="https://img.shields.io/github/package-json/v/twistyapp/web">
+  <a href="https://github.com/prismixapp/web/stargazers"><img src="https://img.shields.io/github/stars/prismixapp/web" alt="Github Stars"></a>
+  <a href="https://github.com/prismixapp/web/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-purple" alt="License"></a>
+  <img src="https://img.shields.io/github/package-json/v/prismixapp/web">
 </p>
 
 ### Built With
@@ -29,7 +29,7 @@ To get a local copy up and running, please follow these simple steps.
 
 ### Prerequisites
 
-Here is what you need to be able to run `@twisty/web`.
+Here is what you need to be able to run `@prismix/web`.
 
 - Node.js
 - Yarn _(recommended)_
@@ -41,13 +41,13 @@ Here is what you need to be able to run `@twisty/web`.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/twistyapp/web.git
+   git clone https://github.com/prismixapp/web.git
    ```
 
 2. Go to the project folder
 
    ```sh
-   cd twisty
+   cd prismix
    ```
 
 3. Install packages with yarn
@@ -64,7 +64,7 @@ Here is what you need to be able to run `@twisty/web`.
 
 ## Roadmap
 
-See the [roadmap](https://github.com/orgs/twistyapp/projects/1/) for a list of proposed features (and known issues).
+See the [roadmap](https://github.com/orgs/prismixapp/projects/1/) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -80,14 +80,14 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the AGPLv3 License. See [`LICENSE`](https://github.com/twistyapp/web/blob/development/LICENSE) for more information.
+Distributed under the AGPLv3 License. See [`LICENSE`](https://github.com/prismixapp/web/blob/development/LICENSE) for more information.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects which help power Twisty:
+Special thanks to these amazing projects which help power Prismix:
 
-[<img src="https://twistyapp.org/static/powered-by-vercel.svg">](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
+[<img src="https://prismix.app/static/powered-by-vercel.svg">](https://vercel.com/?utm_source=prismix&utm_campaign=oss)
 
-- [Vercel](https://vercel.com/?utm_source=twisty&utm_campaign=oss)
+- [Vercel](https://vercel.com/?utm_source=prismix&utm_campaign=oss)
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)

@@ -1,8 +1,8 @@
-Copyright (C) 2022-present Twisty, Inc.
+Copyright (C) 2022-present Prismix, Inc.
 
 Portions of this software are licensed as follow:
 
-- All third party components incorporated into Twisty Software are licensed under the original license provided by the owner of the applicable component.
+- All third party components incorporated into Prismix Software are licensed under the original license provided by the owner of the applicable component.
 - Content outside of the above mentioned directories or restrictions above is available under the "AGPLv3" license as defined below.
 
                     GNU AFFERO GENERAL PUBLIC LICENSE
@@ -636,8 +636,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    Twisty
-    Copyright (C) 2022-present Twisty, Inc.
+    Prismix
+    Copyright (C) 2022-present Prismix, Inc.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published

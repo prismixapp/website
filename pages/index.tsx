@@ -43,7 +43,7 @@ export default function Home() {
                     </div>
                     <div className="mt-6">
                       <h2 className="text-3xl font-extrabold tracking-tight text-gray-900">
-                        Twisty puts people over profit
+                        Prismix puts people over profit
                       </h2>
                       <p className="mt-4 text-lg text-gray-500">
                         From hosting movie nights, watching memes to watching

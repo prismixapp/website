@@ -127,22 +127,22 @@ export default function Privacy() {
             </p>
             <ul>
               <li>
-                Twisty won&apos;t sell your personal data to third parties for
+                Prismix won&apos;t sell your personal data to third parties for
                 any reason.
               </li>
               <li>
-                You have total control of the data you submit, upload, or post
-                to Twisty.
+                You have total control of the data you submit or upload to
+                Prismix.
               </li>
               <li>
-                All data exchanged between you and Twisty&apos;s servers is
+                All data exchanged between you and Prismix&apos;s servers is
                 encrypted.
               </li>
             </ul>
             <h2>Our business model</h2>
             <p>
-              Twisty&apos;s business does not take any interest in your personal
-              data. We make our revenue by user&apos;s donations.
+              Prismix&apos;s business does not take any interest in your
+              personal data. We make our revenue by user&apos;s donations.
             </p>
             <h2>What personal data do we collect?</h2>
             <p>
@@ -152,7 +152,7 @@ export default function Privacy() {
             </p>
             <p>
               <span className="font-semibold">Files and images:</span> When you
-              upload files or images to Twisty, it is sent to a Google Cloud
+              upload files or images to Prismix, it is sent to a Google Cloud
               Storage bucket and encrypted using Google-managed encryption keys.
               When you delete a file or image, we send a deletion request to
               Google Cloud Storage for all files attached.
@@ -202,9 +202,9 @@ export default function Privacy() {
               If you have any questions, don&apos;t hesitate to email us at{" "}
               <a
                 className="text-indigo-500 font-semibold"
-                href="mailto:support@twistyapp.org"
+                href="mailto:support@prismix.app"
               >
-                support@twistyapp.org
+                support@prismix.app
               </a>{" "}
               we typically reply within 7 days.
             </p>

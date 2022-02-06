@@ -1,12 +1,12 @@
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
-  title: "Twisty",
+  title: "Prismix",
   description: "Explore the web with anyone in real-time.",
   openGraph: {
     type: "website",
-    url: "https://twistyapp.org/",
-    site_name: "Twisty",
-    title: "Twisty",
+    url: "https://prismix.app/",
+    site_name: "Prismix",
+    title: "Prismix",
     description: "Explore the web with anyone in real-time.",
     images: [
       {
@@ -19,7 +19,7 @@ export default {
   },
   twitter: {
     handle: "@okaydiogo",
-    site: "@twistyapp",
+    site: "@prismixapp",
     cardType: "summary_large_image",
   },
 };

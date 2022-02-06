@@ -122,29 +122,29 @@ export default function Terms() {
               <a className="text-indigo-500 font-semibold" href="/privacy">
                 privacy policy
               </a>{" "}
-              also governs your use of Twisty and explains how we collect and
-              safeguard information that results from your use of Twisty. If you
-              do not agree with (or cannot comply with) these terms and our
-              privacy policy, then you may not use Twisty.
+              also governs your use of Prismix and explains how we collect and
+              safeguard information that results from your use of Prismix. If
+              you do not agree with (or cannot comply with) these terms and our
+              privacy policy, then you may not use Prismix.
             </p>
           </div>
           <div className="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
             <h2>Content</h2>
             <p>
-              The content found on Twisty (except of third-party content found
-              when chatting) is property of Twisty or used with permission. You
+              The content found on Prismix (except of third-party content found
+              when chatting) is property of Prismix or used with permission. You
               may not distribute, modify, transmit, reuse, download, repost,
               copy or use it without express written permission from us.
             </p>
             <h2>No use by minors</h2>
             <p>
-              Twisty is intended only for use by individuals at least thirteen
-              (13) years old. By accessing or using Twisty, you warrant and
+              Prismix is intended only for use by individuals at least thirteen
+              (13) years old. By accessing or using Prismix, you warrant and
               represent that you are at least thirteen (13) years old and with
               the full authority, right, and capacity to enter into this
               agreement by all of the terms and conditions. If you are not at
               least thirteen (13) years old, you are prohibited from both access
-              and usage of Twisty.
+              and usage of Prismix.
             </p>
             <h2>Accounts</h2>
             <p>
@@ -178,9 +178,9 @@ export default function Terms() {
               If you would like to delete your account, please email us at{" "}
               <a
                 className="text-indigo-500 font-semibold"
-                href="mailto:support@twistyapp.org"
+                href="mailto:support@prismix.app"
               >
-                support@twistyapp.org
+                support@prismix.app
               </a>{" "}
               with the username belonging to the account you want to be deleted.
             </p>
@@ -189,9 +189,9 @@ export default function Terms() {
               If you have any questions, don&apos;t hesitate to email us at{" "}
               <a
                 className="text-indigo-500 font-semibold"
-                href="mailto:support@twistyapp.org"
+                href="mailto:support@prismix.app"
               >
-                support@twistyapp.org
+                support@prismix.app
               </a>{" "}
               we typically reply within 7 days.
             </p>

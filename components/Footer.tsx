@@ -36,7 +36,7 @@ const navigation = {
     },
     {
       name: "GitHub",
-      href: "https://github.com/twistyapp",
+      href: "https://github.com/prismixapp",
       icon: (props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
@@ -116,7 +116,7 @@ export const Footer = () => {
             </div>
           </div>
           <div className="mt-12 xl:mt-0">
-            <a href="https://vercel.com/?utm_source=twisty&utm_campaign=oss">
+            <a href="https://vercel.com/?utm_source=prismix&utm_campaign=oss">
               <img src="/static/powered-by-vercel.svg" />
             </a>
           </div>
@@ -135,7 +135,7 @@ export const Footer = () => {
             ))}
           </div>
           <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
-            &copy; {new Date().getFullYear()} Twisty, Inc. All rights reserved.
+            &copy; {new Date().getFullYear()} Prismix, Inc. All rights reserved.
           </p>
         </div>
       </div>

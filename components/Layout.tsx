@@ -13,7 +13,7 @@ export const Layout = ({ title, children }: ILayout) => {
   return (
     <>
       <Head>
-        <title>{title ? title + " • Twisty" : "Twisty"}</title>
+        <title>{title ? title + " • Prismix" : "Prismix"}</title>
       </Head>
       <div>
         <Navbar />
